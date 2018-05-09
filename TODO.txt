@@ -1,0 +1,21 @@
+
+As you can see we've already made light version of the product which you need to complete now.
+You might have problems with the disarranging of the code. It's up to you to continue with the current code or start from scratch.
+But it'very important to use the same technology like we did. 
+
+These are the following specs: 
+Core-function: PHP, JS, CSS, HTML 
+Also required: AJAX (json) with jquery, PDO, OOP
+
+What should be done next:
+Login-function, multiple-tables (at least 3) sort as tabs, time-function (maybe with a datepicker from jquery ui)
+
+You might noticed that the important part of our app is already working. That's right but we need some improvements.
+We made two tables to record intern and external projects (these are the same records from the same table i'm trying to separate it with 0 or 1). It is possible to drag content inside the table and save it on every position. 
+But its not possible yet to switch content between intern and external. Please also try to fix that. 
+
+The table structure is based on a bootstrap framework. Some feature are hidden, because they are non-essential for our intention. 
+
+I left some TODO's all over the code if you prefer to work on our code.
+
+This is just a overall view of the code structure. There will be more complexity of the app in future so try work structured and also use object oriented php as much as you can. Good luck.
